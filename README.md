@@ -53,6 +53,7 @@ Amit Kumar
 
 🚀 Live Demo
 
-Try PhishGuard here: https://phishguard-e2gscg36kwjq2nzpwv4ne.streamlit.app/
+Try PhishGuard here: https://phishguard-e2gsckx36kwlq2nzpwv4ne.streamlit.app/
+
 
 💻 Source Code: https://github.com/amitkumar-04/PhishGuard
