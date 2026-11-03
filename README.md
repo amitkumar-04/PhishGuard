@@ -50,3 +50,7 @@ PhishGuard is an educational cybersecurity project. Its heuristic scores are not
 👨‍💻 Author
 
 Amit Kumar
+
+🚀 Live Demo
+
+Try PhishGuard here: https://phishguard-e2gscg36kwjq2nzpwv4ne.streamlit.app/
